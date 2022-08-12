@@ -1,7 +1,7 @@
 package behavioural.memento;
 
 public class Main {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         Editor editor = new Editor();
         History history = new History();
 
